@@ -126,6 +126,14 @@ a:hover {
   width: 200px;
 }
 
+.skewed {
+	position: relative;
+}
+
+.words {
+	position:relative;
+}
+
 
 
 
