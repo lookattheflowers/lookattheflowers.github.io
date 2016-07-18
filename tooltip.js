@@ -1,1 +1,0 @@
-$( "#mother" ).tooltip({ content: '<img src="img/img2.jpg" />' });
