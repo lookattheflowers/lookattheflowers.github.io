@@ -168,7 +168,7 @@ filter: progid:DXImageTransform.Microsoft.BasicImage(rotation=3);
   display: flex;
   position: absolute;
 	top: 50%;
-	left:50%;
+	left:-20%;
 	padding: 0;
 	z-index: 9999; 
 	display: none;
